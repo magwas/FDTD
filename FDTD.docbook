@@ -1,0 +1,409 @@
+<book lang="hu">
+<author>Gene Sharp</author>
+<title>Diktatúrából a demokráciába</title>
+<subtitle>A felszabadítás koncepcionális keretei</subtitle>
+<bookinfo>
+<translation>
+Készült a 4. US. Edition alapján.
+
+Fordította Magosányi Árpád
+</translation>
+<author>Gene Sharp</author>
+<organisation>Albert Einstein Intézet</organisation>
+</bookinfo>
+<legalnotice>
+<para>
+Minden a publikációban megjelenő anyag "public domain".
+Reprodukció, fordítás, újrakiadás és publikáció esetén kérjük a forrás megjelölését és az Albert Einstein Intézet megemlítését.
+</para><para>
+<itemizedlist>
+<listitem>
+Első Kiadás 2002 Május
+</listitem><listitem>
+
+Második Kiadás 2003 Június
+</listitem><listitem>
+
+Harmadik Kiadás 2008 Február
+</listitem><listitem>
+
+Negyedik Kiadás 2010 Május
+</listitem>
+</itemizedlist>
+</para>
+<para>
+A <citetitle>Diktatúrából a Demokráciába</citetitle> című művet eredetileg a <orgname>Tanács a Demokrácia Visszaállításáért Burmában</orgname> publikálta Bangkokban 1993-ban, <personname>Kit Pyaing</personname>-al (<orgname>New Era Journal</orgname>) együttműködve. Azóta legalább harminckét (az eredetiben harmincegy [a fordító]) nyelvre lefordították, és többek között Szerbiában, Indonéziában, Thaiföldön is publikálták.
+</para>
+<para>
+Ez a negyedik Egyesült Államokbéli kiadás.
+</para>
+<para><screen>
+The Albert Einstein Institution
+
+P.O. Box 455
+
+East Boston, MA 02128, USA
+
+Tel: USA +1 617-247-4882
+
+Fax: USA +1 617-247-4035
+
+E-mail: einstein@igc.org
+
+Website: www.aeinstein.org
+
+ISBN 1-880813-09-2
+</screen>
+</para>
+<para>
+Fordította: Magosányi Árpád
+</para>
+
+</legalnotice>
+
+<toc/>
+
+<preface>
+<title>Előszó</title>
+<para>
+Évek óta az egyik fontos kérdés számomra az, hogy hogyan tudják az emberek megelőzni és lerombolni a diktatúrát. Ebben részben szerepet játszik az a hitem, hogy emberi lényeket nem szabad hogy ilyen rezsimek uraljanak és pusztítsanak.  Ezt a hitet megerősítették olvasmányok az emberi szabadság fontosságáról, a diktatúrák természetéről (Arisztotelésztől a náci totalitáriánus rezsim vizsgálatáig), és a diktatúrák (különösen a náci és sztálinista rendszerek) története.
+</para>
+<para>
+Az évek alatt lehetőségem nyílt olyan embereket megismerni, akik a náci elnyomás alatt éltek és szenvedtek, beleértve néhányat, akik túlélték a koncentrációs táborokat. Norvégiában találkoztam olyan emberekkel, akik ellenálltak a fasiszta rezsimnek és túlélték, és hallottam olyanokról, akik belehaltak. Beszéltem zsidókkal, akik megszöktek a náci zárak alól, és személyekkel akik segítették őket.
+
+</para>
+<para>
+A kommunista uralom terorrjával kapcsolatos ismereteket inkább könyvekből mint személyes kapcsolatokon keresztül szereztem meg. Ezeknek a rendszereknek a terrorja számomra azért tűnt különösen szívettépőnek, mert ezeket a diktatúrákat az elnyomás és kizsákmányolás elleni felszabadítás nevében vezették be.
+
+</para>
+<para>
+Az utóbbi évtizedekben a diktatorikusan kormányzott országokból (mint Panama, Lengyelország, Chile, Tibet és Burma) származó személyek látogatásain keresztül a mai diktatúrák valósága még inkább realitássá vált. A tibetiektől, akik a kommunista Kína agressziója ellen harcoltak, oroszoktól akik legyőzték az 1991-es keményvonalas puccsot, és thaioktól akik erőszakmentesen meggátolták a katonai hatalom visszatértét, rálátást kaptam egy gyakran nyugtalanító perspektívára a diktatúrák alattomos természetéről.
+
+</para>
+<para>
+A pátosz és felháborodás érzését a brutalitások ellen, együtt a hihetetlenül bátor férfiak és nők hűvös heroizmusának csodálatával, gyakran megerősítették látogatások olyan helyekre, ahol a veszélyek még mindig nagyok voltak. Ezek között volt Panama Noriega alatt, a litván Vilniusz a folyamatos szovjet elnyomás alatt, a pekingi Tiananmen tér mind a szabadság ünnepélyes demonstrációja alatt, mind akkor amikor az első páncélozott járművek megjelentek azon a végzetes estén, és Manerplaw dzsungelbéli főhadiszállása a "szabad Burmában".
+
+</para>
+<para>
+Néha meglátogattam az elesettek helyszíneit, mint a vilniuszi televíziós tornyot és a temetőt, azt a rigai közparkot, ahol embereket gépfegyvereztek le, az észak-olasz Ferrara központját ahol a fasiszták sorba állították és lelőtték az ellenállókat, és egy egyszerű temetőt Manerplaw-ban, amely tele volt olyan emberek holttesteivel, akik túlságosan fiatalon haltak meg. Szomorú tény hogy minden diktatúra ilyan halált és pusztulást hagy maga után.
+
+</para>
+<para>
+Ezekből a gondolatokból és tapasztalatokból származik az a határozott remény, hogy a zsarnokság megelőzése talán lehetséges, hogy a diktatúrák elleni sikeres küzdelem talán kölcsönös tömegmészárlás nélkül is végezhető, és a diktatúrák elpusztíthatóak, az újak felemelkedése a hamuból pedig megelőzhető.
+
+</para>
+<para>
+Megpróbáltam gondosan végiggondolni a leghatékonyabb utakat, amelyeken keresztül a diktatúrák sikeresen felbomlaszthatóak a legkisebb lehetséges - emberéletekben és szenvedésben mért - áron. Eközben felhasználtam sokéves tanulmányaimat a diktatúrákkal, ellenállási mozgalmakkal, forradalmakkal, politikai gondolatokkal, kormányzati rendszerekkel, és különösen a valós életben történt erőszakmentes küzdelemmel kapcsolatban.
+
+</para>
+<para>
+Ez a publikáció az eredmény. Biztos vagyok benne, hogy távol áll a tökéletestől. De talán tud adni néhány sorvezetőt a gondolatokhoz és tervekhez elősegítve olyan felszabadítási mozgalmakat, amelyek erőteljesebbek és hatékonyabbak annál, mint egyébként lennének.
+
+</para>
+<para>
+Szükségszerűségből és tudatos választásból következően ennek az esszének a központja az az általános probléma, hogy hogyan romboljunk le egy diktatúrát úgy, hogy megelőzzük egy másik megszületését. Nem kompetenciám egy konkrét ország számára részletes elemzést és javaslatokat adni. Mindazonáltal abban reménykedem, hogy ez az általános elemzés hasznos lehet emberek számára olyan - sajnos túl nagyszámú - országokban, amelyek éppen a diktatorikus kormányzás valóságával szembesülnek. Nekik meg kell vizsgálniuk ennek az elemzésnek a használhatóságát a saját szituációjuk fényében, és azt a mértéket, amennyire a javaslatok használhatóak, vagy használhatóvá tehetőek az ő felszabadítási küzdelmükben.
+
+</para>
+<para>
+Ebben az elemzésben sehol sem feltételezem hogy a diktátorokkal való dacolás egyszerű vagy áldozatok nélküli erőfeszítés lenne. A küzdelem minden formája komplikációkkal és költségekkel jár. A diktátorok elleni harc természetesen áldozatokat követel. A reményem mindazonáltal az, hogy ez az elemzés arra fogja az ellenállási vezetőket össztökélni, hogy olyan stratégiákat fontoljanak meg, amelyek talán megemelik a hatékonyságukat miközben csökkentik az áldozatok arányát.
+
+</para>
+<para>
+Ezt az elemzést úgy sem szabad értelmezni, hogy amikor egy konkrét diktatúra végetér, minden más probléma el fog tűnni. Egy rezsim összeomlása nem hozza el az utópiát. Jóval inkább megnyitja az utat a kemény munka és hosszú erőfeszítések előtt, amelyekkel egy igazságosabb szociális, gazdasági és politikai viszonyrendszert lehet felépíteni, és eltörölni az igazságtalanságot és elnyomást. Abban reménykedem hogy ez a rövid vizsgálódás arról, hogy a diktatúrákat hogyan lehet lebomlasztani, talán hasznosnak találtatik ott, ahol az emberek elnyomás alatt élnek, és igénylik a szabadságot.
+
+</para>
+<para>
+Gene Sharp
+</para><para>
+
+1993 Okóber 6
+</para><para>
+
+Albert Einstein Intézet
+</para><para>
+
+Boston, Massachusetts
+</para>
+</preface>
+
+<chapter><title>Egy</title>
+<section><title>Realisztikus szembenézés a diktatúrákkal</title>
+<para>
+Az elmúlt években különféle - mind belülről, mind kivülről származó - diktatúrák omlottak össze vagy botlottak meg amikor kihívó, mobilizált emberekkel szembesültek. Néhány, gyakran beágyazottnak és bevehetetlennek tűnő diktatúráról bebizonyult, hogy képtelenek ellenálni az emberek összehangolt politikai, gazdasági és szociális kihívásának.
+</para><para>
+1980 óta diktatúrák omlottak össze az emberek döntően erőszakmentes kihívása előtt Észtországban, Lettországban és Litvániában, Lengyelországban, Kelet-Németországban, Cseszlovákiában, Madagaszkáron, Maliban, Bolíviában és a Fülöp-szigeteken. Erőszakmentes ellenállás vitte előre a demokratikus mozgalmat Nepálban, Zambiában, Dél-Koreában, Chílében, Argentínában, Haitin, Brazíliában, Uruguayban, Malawi-n, Thaiföldön, Bulgáriában, Magyarországon, Nigériában, és a régebbi Szovjetúnió különböző részein (nagy szerepet játszva az 1991-es keményvonalas puccskísérlet legyőzésében).
+
+</para><para>
+Ezen kívül tömeges politikai kihívás<footnote>Ebben a kontextusban a Robert Helvey által bevezetett fogalmat használjuk. "Politikai kihívás" (Political defiance) az erőszakmentes küzdelem (tiltakozás, nemegyüttműködés és beavatkozás) aktív és kihívó használata politikai célokra. A kifejezés arra a zavarra és torzításra ahott válaszként született, amely egyenlőségjelet tesz az erőszakmentesség és pacifizmus, valamint a morális és vallásos "erőszakmentesség" közé. A "kihívás" (defiance) a hatóságokkal szembeni tudatos kihívó engedetlenséget jelöli, amely nem enged teret a behódolásnak. A "politikai kihívás" leírja a környezetet, amelyben az akciót végrehajtják (politikai) és az akció célját is (politikai erő). A kifejezést elsősorban a nép által végrehajtot olyan akciókat jelöli, amelynek célja a kormányzati szervek diktatáráktól való visszavétele, miközben tudatosan stratégiai tervezést és műveleteket használ annak véghezvitelére. Ebben a publikációban a politikai kihívás, erőszakmentes ellenállás és erőszakmentes küzdelem kifejezéseket felcserélhető módon használjuk, noha az utóbbi két kifejezést általában szélesebb célokat (szociális, gazdasági, pszichológiai, stb.) kitűző küzdelmekre használják.</footnote> kapott lábra Kínában, Burmában és Tibetben az elmúlt években. Noha ezek a küzdelmek nem hozták el a diktatúra uralmának vagy a megszállásnak a végét, de bemutatták ezeknek az elnyomó rezsimeknek a brutális természetét a világ közössége számára, és hasznos tapasztalattal szolgáltak a népesség számára a küzdelemnek erről a formájáról.
+
+</para><para>
+A diktatúrák összeomlása a fent említett országokban biztosan nem törölte el az összes többi problémát ezekben a társadalmakban: szegénység, bűnözés, alacsony bürokratikus hatékonyság és a környezet lerombolása gyakran ezeknek a brutális rezsimeknek az öröksége. Mindazonáltal ezeknek a rezsimeknek a bukása legalább csökkentette az elnyomás áldozatainak legtöbb szenvedését, és megnyitotta az utat a társadalom újjáépítése előtt nagyobb poliitkai demokráciával, személyes szabadsággal és szociális igazságossággal.
+</para>
+</section>
+<section>
+<title>Egy folyamatos probléma</title>
+<para>
+Valóban létezik egy a nagyobb demokratizálódásra és szabadságra irányuló trend az elmúlt évtizedekben. A Freedom House<footnote>Freedom House, Freedom in the World, http://www.freedomhouse.org.</footnote> szerint, amely évente nemzetközi felmérést készit a politikai és polgári szabadságjogokról, a világ "szabad"ként osztályozott országainak száma szignifikáns módon nőtt az elmúlt években<footnote>Ibid</footnote>.
+</para><para>
+<table>
+<tgroup cols="4">
+<thead>
+<row>
+<entry/><entry>Szabad</entry><entry>Részlegesen szabad</entry><entry>Nem szabad</entry>
+</row>
+</thead> <tbody><row>
+<entry>1983</entry><entry>54</entry><entry>47</entry><entry>64</entry>
+</row><row>
+<entry>1993</entry><entry>75</entry><entry>73</entry><entry>38</entry>
+</row><row>
+<entry>2003</entry><entry>89</entry><entry>55</entry><entry>48</entry>
+</row><row>
+<entry>2009</entry><entry>89</entry><entry>62</entry><entry>42</entry>
+</row>
+</tbody>
+</tgroup></table>
+</para><para>
+Mindazonáltal ezt a pozitív trendet árnyalja azoknak az embereknek a nagy száma, akik még mindig zsarnokság alatt élnek. 2008-ban a világ 6.68 milliárdos néességének 34%-a élt "Nem szabad" besorolású államokban, tehát extrém módon korlátozott politikai és polgári szabadságjogokkal rendelkező területeken. A "nem szabad" besorolású 42 országot a katonai diktatúrától (pl. Burma), tradicionális elnyomó monarchiákon (mint Szaúd-Arábia és Bhután), domináns politikai pártokon (mint Kína és Észak-Korea), külső megszállókig (pl. Tibet és Nyugat-Szahara) terjedő rezsimek uralják, vagy az átmenet állapotában vannak.
+</para><para>
+Ma sok ország a gyors gazdasági, politikai és szociális változás állapotában van. Noha a "Szabad" országok száma nőtt az elmúlt években, komoly kockázata van annak, hogy sok nemzet ezeknek a gyors és alapvető változásoknak hatására az ellenkező irányba mozdul el, és a diktatúra új formáját fogja megtapasztalni. Katonai klikkek, ambiciózus egyének, megválasztott képviselők és doktríner politikai pártok ismételten próbálkoznak az akaratuk mások nyakába varrásával. A puccsok ma és a jövőben is szokásos történések lesznek. Az alapvető emberi és politikai jogokat a jövőben is megtagadják hatalmas számú embertől.
+</para><para>
+Sajnos a múlt még mindig velünk van. A diktatúrák problémája mély. Az emberek sok országban évtizedeken vagy akár évszázadokon át tapasztalták a belső vagy külső eredetű elnyomást. Gyakran a hatalom embereinek és uralkodóinak való feltétlen megalázkodás régóta bevésődött. 
+Extrém esetekben a társadalom állami kontrollon kívül eső szociális, politikai, gazdasági, vagy akár vallási intézményeit tudatosan meggyengítették, alárendelték, vagy akár lecserélték új, az állam vagy a kormányzó párt által uralt intézményre a társadalom szabályozása céljából. 
+A népességet gyakran atomizálták (elszigetelt egyének tömegévé alakították), amely képtelen együtt dolgozni a szabadságért, megbízni egymásban, vagy akár bármit tenni a saját kezdeményezéséből.
+</para><para>
+Az eredmény előre jelezhető: a népesség gyenge marad, önbizalom híján és képtelen az ellenállásra. Az emberek gyakran túlságosan félnek megosztani a diktatúrával szemben érzett gyűlöletüket és a szabadságéhségüket akár a családdal vagy a barátokkal is. Az emberek gyakran túlságosan megfélemlítettek a nyilvános ellenállásról való komoly gondolkodáshoz. Különben is mire lenne az jó? Inkább szembenéznek a céltalan szenvedéssel és egy remény nélküli jövővel.
+</para><para>
+A jelenlegi állapotok a mai diktatúrákban akár sokkal rosszabbak lehetnek mint régebben. Régen néhány ember megpróbálkozott az ellenállással. Történhettek rövid életű tömegtiltakozások és demonstrációk. Talán a hangulat kis időre felszárnyalt. Máskor egyének és kis csoportok talán bátor de hiábavaló gesztusokat tettek, bizonyítva elveiket vagy egyszerűen a dacukat. Bármilyen magasztosak is a motivációk, az ellenállásnak ezek a régebbi akciói gyakran nem voltak elegek legyőzni az emberek félelmét és szokását az engedelmességre, amely szükséges feltétele a diktatúra lerombolásának. Szomorú módon ezek az akciók talán inkább csak növekvő szenvedést és halált, semmint győzelmet vagy akár reményt hoztak. 
+</para>
+</section>
+<section>
+<title>Szabadság erőszakkal?</title>
+<para>
+Mit lehet tenni ilyen körülmények között? A nyilvánvaló lehetőségek használhatatlannak tűnnek. Az alkotmányos és jogi korlátokat, a bírói döntéseket, és a közvéleményt a diktátorok általában figyelmen kívül hagyják. Érthető módon a brutalitásra, kínzásra, eltűnésekre, gyilkosságokra való válaszként az emberek gyakran arra a következtetésre jutottak, hogy csak az erőszak vethet véget a diktatúrának. A dühös áldozatok néha összefogtak hogy harcoljanak a diktatúra ellen mindazokat az erőszakos és hadi képességeket felhasználva, amelyekhez hozzáfértek, annak ellenére hogy az esélyek ellenük voltak. Ezek az emberek gyakran bátran küzdöttek, aminek nagy ára volt szenvedésben és emberéletekben. Az eredményeik néha rendkívüliek voltak, de csak ritkán sikerült elnyerniük a szabadságot. Az erőszakos lázadások brutális elnyomást vonhatnak maguk után amely gyakran a népet tehetetlenebb állapotban hagyja, mint amiben előtte volt. 
+</para><para>
+Bármik is az előnyei az erőszakos opciónak, egy dolog biztos. <emphasis>Az erőszakos módszerekben való megbízással az ember éppen azt a típusú küzdelmet választja, amelyben az elnyomó csaknem mindig fölényben van.</emphasis> A diktátorok fel vannak készülve az erőszak ellenállhatatlan mértékű alkalmazására. Bármilyen hosszan vagy röviden tudnak a demokraták kitartani, előbb-utóbb a kemény katonai realitások elkerülhetetlenné válnak. A diktátoroknak csaknem mindig fölényük van katonai felszerelésben, lőszerben, szállításban és a haderő méretében. A bátorság ellenére a demokraták (általában) nem vehetik fel a versenyt.
+</para><para>
+Amikor a hagyományos katonai lázadás nem életszerű voltát felismerik, néhány ellenálló a gerillaháborút preferálja. Mindazonáltal a gerillaháború ritkán - ha egyáltalán - segíti az elnyomott népességet vagy segíti elő a demokráciát. A gerillaháború nem nyilvánvaló megoldás, különösen annak a tendenciának fényében hogy hatalmas arányú halálos áldozatokkal jár a saját embereink körében. A módszer nem garantálja a sikert, a támogató elméletek és stratégiai elemzések, sőt néha nemzetközi támogatás ellenére sem. A gerillaháborúk gyakran nagyon hosszú ideig tartanak. A civil népességet a kormányzó erők gyakran kitelepítik, hatalmas emberi szenvedést és szociális elmozdulást okozva.
+</para><para>
+Még ha sikeresek is, a gerilla harcok gyakran hagynak maguk után komoly hosszú távú negatív strukturális következményeket. Azonnali hatásként a megtámadott rezsim még diktatorikusabbá válik az ellenintézkedések következményeképen. Ha a gerillák végül győznek, a kialakuló új rezsim gyakran diktatorikusabb mint az elődje, a kiterjedt katonai erők és a társadalom független csoportjainak és intézményeinek - a demokratikus társadalom létrehozásához és fenntartásához nélkülözhetetlen szervezeteknek - meggyengülése vagy szétesése miatt. Akik ellenségesek a diktatúrákkal, más opció után kell nézzenek.
+</para>
+</section>
+<section>
+<title>Puccs, választás, külső megmentő?</title>
+<para>
+Egy katonai puccs a diktatúra ellen egyike a relatív legegyszerűbbnek és leggyorsabbnak tűnő módoknak egy különösen visszataszító rezsim eltörlésére. Ugyanakkor néhány nagyon komoly probléma van ezzel a technikával. A legfontosabb, hogy meghagyja az erő létező egyenlőtlenségét a népesség és a kormányt és annak katonai erejét irányító elit között. Konkrét emberek és klikkek eltávolítása a kormányzó pozíciókból legvalószínűbben csupán lehetővé teszi egy másik csoportnak hogy elfoglalják a helyüket. Elméletileg ez a csoport lehetne szelídebb viselkedésű és korlátozottan nyitottabb a demokratikus reformra. Mindazonáltal az ellenkezője éppen annyira lehetséges eset.
+</para>
+<para>
+Miután megerősítette a helyzetét, az új klikkről kiderülhet hogy még kegyetlenebb és ambíciózusabb mint a régi. Ebből következően az új klikk - amelyben megbíztak - képes lesz bármit megtenni a demokráciára és az emberi jogokra való tekintet nélkül. Ez nem egy elfogadható válasz a diktatúrák problémájára.
+</para>
+<para>
+A választások nem elérhetőek a diktatúrákban lényeges politikai változások eléréséhez. Néhány diktatorikus rezsim, mint pl. a régi szovjetek által ellenőrzött keleti blokkban lévők, végigment a választások lépésein abból a célból, hogy demokratikusnak tűnjön. Ezek a választások azonban csupán szigorúan ellenőrzött szavazások voltak a diktátorok által személyesen kiválasztott jelöltek népszerűségének növelésére. A diktátorok nyomás alatt néha beleegyeznek új választásokben, de utána úgy nyúlnak bele, hogy civil bábukat állítsanak a kormányzati hivatalokba. Ha az ellenzék jelöltjét engedték indulni, és azokat konkrétan meg is választották, - ahogyan az Burmában 1990-ben és Nigériában 1993-ban történt - az eredményeket egyszerűen figyelmen kívül hagyhatják, és a "győzteseket" megfélemlítésnek, letartóztatásnak, vagy akár kivégzésnek vethetik alá. A diktátorok nem abban utaznak, hogy olyan választásokat tartsanak, amely letaszíthatja őket a trónjukról.
+</para>
+<para>
+Sok ember aki ma a brutális diktatúrák alatt szenved vagy emigrációba menekült hogy elkerülje annak szorítását, nem hiszi hogy az elnyomottak fel tudják saját magukat szabadítani. Arra számítanak, hogy a saját embereiket csak mások akciói tudják megmenteni. Ezek az emberek külső erőkbe helyezik a bizalmukat. Azt gondolják, hogy csak a nemzetközi segítség lehet eléggé erős a diktátorok legyőzéséhez.
+</para>
+<para>
+Az a nézet, hogy az elnyomottak képtelenek hatékonyan működni, néha egy időszakra nézve pontos lehet. Mint azt megjegyeztük, az elnyomott emberek gyakran nem hajlandóak vagy időszakosan képtelenek küzdeni mert nincs bizalmuk a saját képességeikben a kegyetlen diktatúrával való szembenézéshez, és nem ismernek módszert a saját megmentésükre. Ezért megérthető hogy sok ember a mások általi felszabadításban bizakodik. Ez a külső erő lehet a "közvélemény', az ENSZ, egy konkrét ország, vagy nemzetközi gazdasági és politikai szankciók.
+</para>
+<para>
+Egy ilyen forgatókönyv megnyugtatóan hathat, de hatalmas problémák vannak ezzel a külső segítségre utaltsággal. Ez a bizalom lehet teljesen megalapozatlan. Általában nem jönnek a külföldi megmentők, és ha egy külföldi állam valóban beavatkozik, abban lehet hogy nem szabad megbízni.
+</para>
+<para>
+A külső beavatkozásba vetett bizalommal kapcsolatos néhány kemény igazságot itt meg kell jegyeznünk:
+<itemizedlist>
+<listitem>
+Az idegen államok gyakran tolerálják, vagy akár ténylegesen segítik a diktatúrát a saját gazdasági vagy politikai érdekeik előmozdítása céljából.
+</listitem>
+<listitem>
+Az idegen államok akár hajlandóak az elnyomott embereket eladni ahelyett hogy betartsák a szavukat és segítsék a felszabadításukat más célok rovására.
+</listitem>
+<listitem>
+Néhány külföldi állam csak azért tesz a diktatúra ellen, hogy megszerezze az ország gazdasági, politikai vagy katonai irányítását.
+</listitem>
+<listitem>
+A külföldi államok a pozitív célok résztvevőivé akkor válnak, ha és amikor a belső ellenállási mozgalom már elkezdi megrázni a diktatúrát, ezáltal fókuszált nemzetközi figyelmet irányítva a rezsim brutális természetére.
+</listitem>
+</itemizedlist>
+</para>
+<para>
+A diktatúrák általában elsősorban a saját országuk erőeloszlása miatt létezhetnek. A népesség és a társadalom túlságosan gyenge ahhoz, hogy komoly problémákat okozhasson a diktatúrának, a gazdagság és erő túl kevés kézben koncentrálódik. Noha a diktatúrákat segíthetik vagy gyengíthetik nemzetközi akciók, a továbbélésük elsősorban belső tényezőktől függ.
+</para>
+<para>
+A nemzetközi nyomás nagyon hasznos lehet, de csak akkor akkor ha egy erős belső ellenállási mozgalmat támogat. Ilyenkor például a nemzetközi gazdasági bojkottok, embargók, a diplomáciai kapcsolatok felfüggesztése, a nemzetközi szervezetekből való kiűzés, az ENSZ szervezetek általi elítélés és a hasonlók nagyon tudnak segíteni. Mindazonáltal egy erős belső ellenállási mozgalom hiányában mások ilyen akciói nem valószínű hogy megtörténnek.
+</para>
+</section>
+<section>
+<title>A kemény igazság</title>
+<para>
+A végkövetkeztetés eléggé kemény. Ha valaki a leghatékonyabban és a legkisebb áron le akarja rombolni a diktatúrát, négy azonnali teendője van:
+<itemizedlist>
+<listitem>
+Meg kell erősíteni az elnyomott populációt magát elhatározottságában, önbizalmában és ellenállási készségeiben.
+</listitem>
+<listitem>
+Meg kell erősíteni az elnyomott emberek független szociális csoportjait és intézményeit.
+</listitem>
+<listitem>
+Létre kell hozni egy erős ellenállási erőt.
+</listitem>
+<listitem>
+Ki kell alakítani egy bölcs nagy stratégiai tervet a felszabadításra, és azt ügyesen végre kell hajtani.
+</listitem>
+</itemizedlist>
+</para>
+<para>
+A felszabadítási küzdelem az ideje a küzdő csoport belső megerősítésének és magabiztosságának elérésére. Ahogyan Charles Stewar Parnell az Ír bérlői sztrájk idején 1879-ben és 1880-ban kifejtette:
+</para>
+<para>
+<quote>
+	Nincs értelme a kormányzatban megbízni.... Csak a saját elkötelezettségetekben bízhattok.... Segítsétek magatokat azzal hogy egymás mellé álltok.... erősítsétek meg magatok között a gyengéket...., gyűljetek össze, szervezzétek meg magatokat....és győznötök kell....
+</quote>
+</para>
+<para>
+<quote>
+Amikor a kérdést megérleltétek a megegyezésre, akkor - és nem előbb - el fog intéződni.<footnote> Patrick Sarsfield O’Hegarty, A History of Ireland Under the Union, 1880-1922 (London: Methuen, 1952), pp. 490-491.</footnote>
+</quote>
+</para>
+<para>
+Egy erős, önbizalommal bíró erő ellen egy bölcs stratégia, fegyelmezett és bátor akciók és valódi erő mellett a diktatúra előbb-utóbb elporlik. Azonban legalább a fenti négy feltételnek teljesülnie kell.
+</para>
+<para>
+Ahogyan a fenti tárgyalás bemutatta, a diktatúra alóli felszabadulás az emberek önmaguk felszabadítására irányuló képességén múlik. A sikeres politikai kihívás esetei - vagy a politikai célú erőszakmentes küzdelmeké - amelyekre fentebb hivatkoztunk, valóban azt jelzik, hogy léteznek módok, amelyekkel a lakosság képes magát felszabadítani, de ezek a lehetőségek kifejlesztetlenek maradtak. A következő fejezetben részletesen megvizsgáljuk ezt az opciót. Mindazonáltal előtte tekintsük át a tárgyalást, mint lehetőséget a diktatúra felbomlasztására.
+</para>
+</section>
+</chapter>
+<chapter>
+<title>Kettő</title>
+<section>
+<title>A tárgyalások veszélyei</title>
+<para>
+Amikor komoly problémákkal kell szembenézni a diktatúrákkal való konfrontáció közben (ahogyan az első fejezetben áttekintettük), néhány ember visszaeshet a passzív megadásba. Mások, nem látva módot a demokrácia elérésére, arra a következtetésre juthatnak, hogy meg kell alkudni a folytonosnak tűnő diktatúrával, remélve hogy "egyeztetés", "kompromisszumok" és "tárgyalás" segítségével megmenthetnek néhány pozitív elemet, és véget vethetnek a brutalitásoknak. A felszínen, reális opciók nélkül, van vonzereje az ilyen típusú gondolkodásnak.
+</para>
+<para>
+A diktatúrák elleni komoly küzdelem nem egy kellemes kilátás. Miért kell ezen az úton elindulni? Nem lehetne hogy mindenki csak viselkedjen ésszerűen, és módot találjon a beszélgetésre, tárgyalásokkal vetve fokozatosan véget a diktatúrának?
+Nem lehet hogy a demokraták a diktátor emberiességére apellálva meggyőzhetik hogy lépésről lépésre feladja a dominanciáját, és esetleg végül teljesen utat engedjen a demokrácia létrehozásának? 
+</para>
+<para>
+Gyakran érvelnek azzal, hogy az igazság egyáltalán nem csak az egyik oldalon van. Lehet hogy a demokraták félreértették a diktátort, aki esetleg jószándékból cselekedett bonyolult körülmények között? Vagy esetleg néhányan azt képzelhetik hogy a diktátorok boldogan megszabadulnának az országot sújtó összetett helyzetből egy kis bíztatás és csábítás hatására?
+Lehet azzal érvelni, hogy a diktátor számára felajánlható egy "win-win" megoldás, amelyből mindenkinek előnye származik.
+Lehet azzal érvelni, hogy a további küzdelem fájdalma és kockázatai feleslegessé válnának ha a demokratikus ellenzék hajlandó lenne a konfliktusokat tárgyalásos úton rendezni (amelyet talán valamilyen szakképzett egyén vagy akár másik kormányzat segítene).
+Ez nem lenne jobb egy nehéz küzdelemnél, még akkor is ha az erőszakmentes küzdelemből és nem katonai háborúból áll?</para>
+</section>
+<section>
+<title>A tárgyalások előnyei és határai</title>
+<para>A tárgyalások nagyon hasznos eszközt adnak bizonyos típusú problémák feloldására a konfliktusokban, és nem szabad őket elhanyagolni vagy visszautasítani a megfelelő esetekben.
+</para>
+<para>
+Néhány szituációban, amikor nem alapvető kérdések vannak terítéken és ezért a kompromisszum elfogadható, a tárgyalás fontos módja a konfliktusok megoldásának. Egy munkavállalói sztrájk a magasabb bérekért jó példája a tárgyalás megfelelő szerepére a konfliktusban: a megegyezés biztosíthat egy előrelépést valahol a két vitatkozó fél által javasolt összegek között.
+A munkavállalói konfliktusok a legális szakszervezetekkel ugyanakkor eléggé különböznek azoktól a konfliktusoktól, amelyekben egy kegyetlen diktatúra folyamatos létezése vagy a politikai szabadság létrehozása a tét.
+</para>
+<para>
+Amikor alapvető, vallási alapelveket, a szabadság kérdéseit, vagy a társadalom fejlődésének teljes jövőjét érintő kérdések forognak kockán, a tárgyalások nem nyújtanak módot a kölcsönösen kielégítő megoldásra.
+Néhány alapvető kérdésben nem szabad kompromisszumot kötni.
+Csak az erőviszonyok eltolódása a demokraták javára tudja megfelelően megvédeni a kockán forgó alapvető kérdéseket.
+Ez nem jelenti azt, hogy a tárgyalások soha nem lehetnek sikeresek.
+A mondanivaló az, hogy a tárgyalás nem realisztikus módja egy erős diktatúra eltörlésének demokratikus ellenzék hiányában.
+</para>
+<para>
+Persze az is előfordulhat, hogy a tárgyalás egyáltalán nem opció. Az erősen beágyazott diktátorok, akik biztonságban érzik magukat a pozíciójukban, elutasíthatják a demokratikus ellenzékükkel való tárgyalást.
+Vagy ha a tárgyalások elkezdődnek, a demokratikus tárgyalófelek eltűnhetnek úgy hogy senki sem hall róluk többet.
+</para>
+</section>
+<section>
+<title>Egyeztetett megadás?</title>
+<para>
+Azok az egyének és csoportok, akik ellenzik a diktatúrát és előnyben részesítik a tárgyalásokat, gyakran jóindulatúak. Különösen ha a katonai küzdelem éveken át folytatódott egy brutális diktatúra ellen végső győzelem nélkül, érthető hogy minden ember bármilyen politikai meggyőződéssel békét akar. A tárgyalások különösen nagy valószínűséggel merülnek fel a demokraták között ahol a diktátornak egyértelmű katonai erőfölénye van és a saját emberek körében az áldozatok száma nem tolerálható tovább. Ilyenkor erős a késztetés megtalálni bármely más utat amely megmenthet valamennyit a demokraták céljaiból miközben véget vet az erőszak és ellen-erőszak ciklusának.
+</para>
+<para>
+A demokratikus ellenzékkel folytatott tárgyaláson keresztüli "béke" ajánlata a diktatúra által persze meglehetősen hamis.
+Az erőszak azonnal megszűntethető lett volna maga a diktátor által, ha abbahagyta volna a saját emberei ellen viselt háborút. Saját kezdeményezéséből mindenféle alkudozás nélkül tisztelhette volna az emberi jogokat, kiengedhette volna a politikai foglyokat, véget vethetett volna a kínzásoknak, megállíthatta volna a katonai műveleteket, távozhatottt volna a kormányról, és bocsánatot kérhetett volna az emberektől.
+</para>
+<para>
+Amikor a diktatúra erős, de létezik egy kellemetlenkedő ellenállás, a diktátorok megróbálhatják az ellenzéket a megadásra szorítani a "béketárgyalások" örve alatt.
+A tárgyalási meghívás vonzónak tűnhet, de nagy veszélyek leselkedhetnek a tárgyalóasztal mellett.
+</para>
+<para>
+Másrészről amikor az ellenzék különösen erős, és a diktatúra valóban szorongatott helyzetben van, a diktátor azért próbálhat meg tárgyalni, hogy a saját kontrolljából vagy gazdagsággából megmentsen annyit amennyi csak lehetséges.
+A demokraták egyik esetben sem szabad hogy segítsék a diktátort a céljai elérésében.
+</para>
+<para>
+A demokratáknak óvatosnak kell lenniük azokkal a csapdákkal, amelyeket a diktátorok tudatosan bepíthetnek a tárgyalási folyamatba.
+A tárgyalási meghívás amikor alapvető politikai jogokról van szó lehet egy próbálkozás a diktátor részéről hogy a demokratákat megadásra vegye rá miközben a diktatúra általi erőszak folytatódik.
+Az ilyen típusú konfliktusokban az egyetlen megfelelő szerepe a tárgyalásoknak egy döntő küzdelem után lehet amelyben a diktátor erejét ténylegesen megtörték, és szabad utat próbál szerezni egy nemzetközi repülőtérre.
+</para>
+</section>
+<section>
+<title>Erő és jog a tárgyalásokban</title>
+<para>
+Ha ez az ítélet túl sommásnak hangzana a tárgyalásokról, talán némi velük kapcsolatos romanticizmust el kell oszlatni.
+Tisztán át kell látni, hogy a tárgyalások hogyan működnek.
+</para>
+<para>
+A "tárgyalás" nem azt jelenti, hogy a két fél az egyenrangúság talaján leül, és végigbeszéli a nézeteltéréseket amelyek konfliktust okoztak közöttük.
+Először is a tárgyalásokon nem az ütköző nézetek és célok egymáshoz viszonyított igazsága határozza meg a megegyezés tartalmát.
+Másodszor, a megyegyezés leginkább a felek erőviszonyaitól függ.
+</para>
+<para>
+Több nehéz kérdést is meg kell vizsgálni. Mit tudnak a felek a későbbiekben tenni a céljaik eléréséért ha nem jutnak megegyezésre a másik féllel a tárgyalóasztal mellett?
+Mit tudnak a felek tenni egy elért egyezség után ha a másik fél megszegi a szavát és a rendelkezésére álló erőt a céljai elérésére használja fel a megegyezés ellenére?
+</para>
+<para>
+A tárgyalásokon a megegyezés nem a kérdések jó és rossz oldalainak mérlegelésével keletkezik. Noha ezeket lehet hogy sokáig vitatják, a tárgyalásokon az igazi eredmény a vitázó felek abszolút és relatív erőviszonyainak mérlegeléséből adódik.
+Mit tudnak a demokraták tenni annak érdekében hogy a minimum követeléseiket ne utasítsák vissza? Mit tud a diktátor tenni hogy megtartsa az irányítást és neutralizálja a demokratákat? Más szavakkal; ha létrejön egy megegyezés, az inkább az eredménye annak hogy a felek hogyan becsülik fel az erőviszonyaika, és utána kikövetkeztetik hogy egy nyílt küzdelem hogyan végződne.
+</para>
+<para>
+Figyelmet kell fordítani arra is, hogy a felek mit hajlandóak feladni a megegyezés elérése érdekében.
+A sikeres tárgyalásokon kompromisszum születik, a különbségek egyfajta felosztása. Mindkét fél megkapja egy részét annak amit szeretne, és feladja a céljai egy részét.
+</para>
+<para>
+Az extrém diktatúrák esetében mi az amit a demokratikus erők feladnak a diktátornak? A diktátor melyik célkitűzéseit fogadják el a demokratikus erők?
+A demokraták adnak a diktátornak (akár politikai pártnak, akár egy katonai szövetségnek) alkotmányban biztosított permanens szerepet a kormányzásban?
+Hol van ebben a demokrácia?
+</para>
+<para>
+Még ha feltételezzük is hogy minden jól megy a tárgyalásokon, fontos megkérdezni: milyen fajta béke lesz az eredmény?
+Jobb vagy rosszabb lesz az élet mintha a demokraták megkezdték vagy folytatták volna a küzdelmüket?
+</para>
+</section>
+<section>
+<title>"Elfogadható" diktátorok</title>
+<para>
+A diktátoroknak többféle motivációjuk és céljuk lehet a hatalomra való törekvés mögött: erő, pozíció, gazdagság, a társadalom átalakítása, és ilyenek.
+Emlékezni kell arra, hogy ezek egyike sem valósulhat meg ha elhagyják az irányító pozíciókat.
+A tárgyalások során a diktátorok megpróbálják megőrizni a céljaikat.
+</para>
+<para>
+Bármilyen ígéreteket tesznek a diktátorok bármilyen tárgyalásos megegyezésben, soha sem szabad elfeledni hogy a diktátorok bármit megígérnek hogy biztosítsák a megadást a demokratikus ellenfeleik részéről, majd pimaszul felrúgják ezeket a megegyezéseket.
+</para>
+<para>
+Ha a demokraták beleegyeznek az ellenállás leállításába az elnyomás könnyítésének érdekében, az nagy csalódást okozhat. Az ellenállás leállítása ritkán eredményez csökkentett elnyomást. Amint a belső és nemzetközi ellenállás megkötő ereje megszűnik, a diktátorok még brutálisabbá tehetik az elnyomást és erőszakot mint előtte.
+A népi ellenállás összeomlása gyakran eltörli az ellenálló erőt amely korlátozta a diktatúra kontrollját és brutalitását.
+A zsarnokok ekkor továbbléphetnek bárki ellen kedvük szerint. "A zsarnoknak csak azt van ereje kierőszakolni, aminek nekünk nincs erőnk ellenállni" írta Krishnalal Shridharani<footnote>Krishnalal Shridharani, Háború erőszak nélkül: Tanulmány Gandhi módszereiről és eredményeiről (A Study of Handhi's Method and Its Accomplishments) (New York: Harcourt, Brace, 1939, és újrakiadás New York és London: Garland Publishing, 1972), 260. oldal</footnote>
+</para>
+<para>
+Az ellenállás, és nem a tárgyalás a lényeges a változások eléréséhez azokban a konfliktusokban ahol alapvető kérdések forognak kockán. Az ellenállásnak majdnem minden esetben folytatódnia kell ahhoz, hogy a diktátor hatalma megszűnjék.  
+A sikert legtöbbször nem a tárgyalásos egyezség, hanem az ellenállás legmegfelelőbb és legerőteljesebb eszközeinek bölcs használata hozza el.
+A mi véleményünk szerint, amelyet később részletesen kifejtünk, a politikai kihívás vagy erőszakmentes küzdelem a legerőteljesebb elérhető eszköz azok számára, akik a szabadságért küzdenek.
+</para>
+</section>
+<section>
+<title>Milyen fajta béke?</title>
+<para>
+Ha a diktátorok és demokraták egyáltalán békéről beszélnek, kivételesen tiszta gondolkodás szükséges a veszélyek elkerüléséhez.
+Nem mindenki, aki a "béke" szót használja, szeretne békét szabadsággal és igazságossággal.
+A megadás a kegyetlen elnyomásnak és a passzív beletörődés a könyörtelen diktátoroknak akik emberek százezreivel szemben követtek el kegyetlenségeket, nem igazi béke.
+Hitler gyakran szólított fel békére, de ez alatt az akaratának való megadást értette.
+A diktátor békéje gyakran nem több, mint a börtön vagy a sír békéje.
+</para>
+<para>
+Más veszélyek is vannak itt. A jó szándékú tárgyalók néha összekeverik a tárgyalás céljait a tárgyalási folyamattal magával.
+Ráadásul a demokratikus tárgyalók vagy külföldi tárgyalási specialisták akiket a tárgyalás segítéséhez elfogadnak, egyetlen mozdulattal megadhatják a diktátornak azt a belpolitikai és nemzetközi legitimitást, amelyet előtte az állam fogvatartása, emberi jogi sérelmek és brutalitások miatt megtagadtak tőle.
+Enélkül a kétségbeesve vágyott legitimitás nélkül a diktátorok nem kormányozhatnak a végtelenségig.
+A béke hívei nem szabad hogy legitimitást adjanak nekik.
+</para>
+</section>
+<title>Okok a reményre</title>
+<para>
+</para>
+</chapter>
+</book>
